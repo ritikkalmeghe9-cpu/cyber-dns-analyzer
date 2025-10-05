@@ -1,0 +1,7 @@
+Resolves multiple DNS record types: A, AAAA, CNAME, MX, TXT, and SOA.
+
+Handles exceptions gracefully (no answer, invalid domain, etc.).
+
+Provides clear and formatted output for easy reading.
+
+Lightweight and beginner-friendly code.
