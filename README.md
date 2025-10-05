@@ -20,5 +20,10 @@ This is a simple Python tool that allows you to fetch and display various DNS re
 
   python dns_resolver.py
 
+# Author
+
+Ritik Kalmeghe
+💡 Cybersecurity Enthusiast | Python Developer | Cybersecurity analyst 
+
 
 
